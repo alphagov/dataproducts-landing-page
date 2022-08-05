@@ -1,6 +1,6 @@
 ---
 applications:
-- name: dataproducts
+- name: data-services
   memory: 64M
   buildpacks:
   - staticfile_buildpack
