@@ -5642,3 +5642,12 @@ div.feature-panel {
   margin-top: -5px;
   margin-right: 10px;
   vertical-align: middle; }
+
+.gem-c-header__logotype {
+  display: inline-block;
+  vertical-align: middle;
+}
+.gem-c-header__product-name {
+  display: inline-block;
+  vertical-align: middle;
+}
