@@ -51,8 +51,7 @@ a, .govuk-link {
     -webkit-box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c;
             box-shadow: 0 -2px #ffdd00, 0 4px #0b0c0c;
     text-decoration: none; }
-//  a:link, .govuk-link:link { color: #1d70b8; }
-  a:link, .govuk-link:link { color: #000000; }
+  a:link, .govuk-link:link { color: #1d70b8; }
   a:visited, .govuk-link:visited {
     color: #4c2c92; }
   a:hover, .govuk-link:hover {
