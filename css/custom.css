@@ -13,3 +13,7 @@
 .hero__body {
   padding: 0;
 }
+
+.homepage-services-and-info__list {
+  grid-template-rows: initial;
+}
